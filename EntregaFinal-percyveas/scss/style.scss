@@ -1,0 +1,54 @@
+
+@import "./utilities/funciones";
+@import "./utilities/variables";
+@import "./utilities/maps";
+
+@import "./base/reset";
+
+@import "./layouts/index/main-index";
+@import "./layouts/index/header-index";
+@import "./layouts/index/footer-index";
+
+@import "./layouts/nosotros/header-nosotros";
+@import "./layouts/nosotros/main-nosotros";
+@import "./layouts/nosotros/footer-nosotros";
+
+@import "./layouts/experiencias/header-experiencias";
+@import "./layouts/experiencias/main-experiencias";
+@import "./layouts/experiencias/footer-experiencias";
+
+@import "./layouts/automatizacion/header-auto";
+@import "./layouts/automatizacion/main-auto";
+@import "./layouts/automatizacion/footer-auto";
+
+@import "./layouts/energias/header-energias";
+@import "./layouts/energias/main-energias";
+@import "./layouts/energias/footer-energias";
+
+@import "./layouts/transmision/header-transmision";
+@import "./layouts/transmision/main-transmision";
+@import "./layouts/transmision/footer-transmision";
+
+@import "./layouts/serviciosing/header-servicios";
+@import "./layouts/serviciosing/main-servicios";
+@import "./layouts/serviciosing/footer-servicios";
+
+@import "./layouts/contacto/header-contacto";
+@import "./layouts/contacto/main-contacto";
+@import "./layouts/contacto/footer-contacto";
+
+@import "./layouts/media/media375";
+@import "./layouts/media/media425";
+@import "./layouts/media/media768";
+@import "./layouts/media/media1024";
+@import "./layouts/media/media1200";
+@import "./layouts/media/media1440";
+@import "./layouts/media/media1600";
+@import "./layouts/media/media1800";
+@import "./layouts/media/media1920";
+@import "./layouts/media/media2200";
+@import "./layouts/media/media2560";
+
+
+
+

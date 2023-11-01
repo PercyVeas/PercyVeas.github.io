@@ -1,0 +1,45 @@
+
+
+.mainIndex{
+    .parrIndex{
+        box-shadow: 25px;
+        margin-top: 50px;
+        .tarjetaUno{
+            margin: 15px;
+            box-shadow: 5px 5px 10px;
+        }
+    }
+    .contTarjetas{
+        margin: 10px;
+        .contTransmision{
+            .tarjetaTransmision{
+                box-shadow: 2px 2px 15px;
+
+            }
+        }
+        .contAuto{
+            .tarjetaAuto{
+                box-shadow: 2px 2px 15px;
+            }
+        }
+        .contServicios{
+            margin-bottom: 10px;
+            .tarjetaServicios{
+                box-shadow: 2px 2px 15px;
+                .fotoServicios{
+                    height: 300px;
+                }
+            }
+        }
+        .contEnergias{
+            margin-bottom: 10px;
+            .tarjetaEnergias{
+                box-shadow: 2px 2px 15px;
+                .fotoEnergias{
+                    height: 300px;
+                }
+            }
+        }
+    }    
+}
+

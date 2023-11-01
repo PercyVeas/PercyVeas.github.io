@@ -1,0 +1,62 @@
+
+
+
+    .mainNosotros{
+        .contParrafouno{
+            margin: 20px;
+            .parrafoCard{
+                text-align: center;
+            }
+        }
+        .imgMainnosotros{
+            margin: 5px;
+            .imgNosotros{
+                border-radius: 5%;
+            }
+        }
+        .segundoContnosotros{
+            margin: 15px;
+            .segundoParrafonosotros{
+                text-align: center;
+            }
+        }
+        .contImagenesnosotros{
+            display: flex;
+            flex-direction: column;
+            padding: 15px;
+            gap: 5px;
+            .subContimagenes{
+                gap: 5px;
+                justify-content: center;
+                .bobina{
+                    border-radius: 2%;
+                }
+                .instPaneles{
+                    border-radius: 2%;
+                }
+            }
+            .subContimagenesuno{
+                gap: 5px;
+                justify-content: center;
+                .vavlula{
+                    border-radius: 2%;
+                }
+                .conexionMT{
+                    border-radius: 2%;
+                }
+                .tableroControl{
+                    border-radius: 2%;
+                }
+            }
+            .subContimagenesdos{
+                gap: 5px;
+                justify-content: center;
+                .subEstacion{
+                    border-radius: 2%;
+                }
+                .excavadoraRueda{
+                    border-radius: 2%;
+                }
+            }
+        }
+    }

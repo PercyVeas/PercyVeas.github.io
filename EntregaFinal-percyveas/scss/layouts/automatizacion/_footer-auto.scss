@@ -1,0 +1,12 @@
+
+.footerAuto{
+    .serviciosAutomatizacion{
+        padding: 10px;
+        display: flex;
+        flex-direction: column;
+        .primerTrabajoauto{
+            background-color: $colorParrafoauto;
+            border-radius: 20px;
+        }
+    }
+}

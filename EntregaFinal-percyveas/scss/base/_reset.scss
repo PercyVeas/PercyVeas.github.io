@@ -1,0 +1,37 @@
+
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+
+
+.bodyIndex{
+    background-color: $colorIndex;
+}
+
+.bodyNosotros{
+    background-color:$colorNosotros;
+}
+
+.bodyAuto{
+    background-color: $colorAutomatizacion;
+}
+
+.bodyEnergias{
+    background-color: $colorEnergias;
+}
+
+.bodyTransmision{
+    background-color: $colorTransmision;
+}
+
+.bodyServicios{
+    padding: 10px;
+    background-color: $colorServicios;
+}
+.bodyExperiencias{
+    background-color: $colorExperiencias;
+}
+.bodyContacto{
+    background-color: $colorContacto;
+}

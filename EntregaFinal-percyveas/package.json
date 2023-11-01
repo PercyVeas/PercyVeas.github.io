@@ -1,0 +1,11 @@
+{
+  "name": "entregafinal-percyveas",
+  "version": "1.0.0",
+  "description": "Este proyecto busca demostrar la habilidades aprendidas en el curso de desarrollo web, con la realizacion de un sitio web con enfoque en la venta de un servicio\r del rubro de la automatizacion industrial, energias renovables e ingenieria.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
